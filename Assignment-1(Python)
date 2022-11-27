@@ -109,7 +109,7 @@ Q19. What will the output of the following?
 ```
 1 or 0  => True
 
-0 and 0  => True
+0 and 0  => False
 
 True and False and True => False
 
